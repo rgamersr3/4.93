@@ -1,4 +1,4 @@
-# 🎮 Auto HEN Installer HFW 4.93
+# 🎮 R-GAMERS HFW 4.93
 
 Bienvenido al repositorio oficial del **Auto HEN Installer para HFW 4.93**, una herramienta esencial para la instalación de HEN (Homebrew Enabler) en consolas PlayStation 3. 
 
@@ -21,8 +21,8 @@ Este proyecto se basa en el arduo trabajo de la comunidad de PS3 a lo largo de l
 
 * **Versión de HEN:** HEN 3.5.0
 * **Desarrollo principal:** Gracias a Coro, lmn7, Joonie, evilnat, luan teles, habib, zecoxao, DeViL303, xps3riments, aldostools, and PS3Xploit Team for their work used or hosted here.
-* **Modificación de la base:** Instalador modificado por **VIDEOGAMES SCZ** y gracias al equipo de **PSXPlace** por brindar sus herramientas y conocimientos, sin ellos no sería esto posible.
-* **Diseño e Interfaz:** Adaptado por **Augusto Tips** para su menú de PS3.
+* **Modificación de la base:** Instalador modificado por **R-GAMERS**.
+* **Diseño e Interfaz:** Adaptado por **R-GAMERS** para su menú de PS3.
 
 ---
 
